@@ -1,4 +1,4 @@
-# GIS_Mapping
+# GIS Mapping Experimentation
 Experimented with GIS Mapping System
 
 Website used as a reference material: 
